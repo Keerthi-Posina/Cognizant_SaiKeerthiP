@@ -1,0 +1,14 @@
+/* You can remove the default App.css content if you wish */
+
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.textRed {
+  color: red;
+}
+
+.textGreen {
+  color: green;
+}
